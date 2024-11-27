@@ -1,0 +1,22 @@
+body {background-color:linen;}
+p {font-family: Times; font-size: 20px; margin: 20px;}
+h1,h2,h3,h4,h5,h6 {font-family: Times; text-align: center; margin: 20px;}
+
+img.logo { width: 460px; border:3px solid black; border-radius: 6px; padding: 4px; margin: 20px;  }
+table {width: 90%; border: 5px solid; border-color: blue; margin: 20px;}
+div.gejm {width: 30%;
+    border: 1px solid;
+    padding: 8px 12px;
+    background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+    margin: 20px;}
+div.blok { margin: auto;width: 70% ;text-align: center; }
+td {border: 1px solid; border-color: rgb(0, 153, 255); text-align: center;}
+td.pierwszy {width: 20%;}
+td.drugi {width: 10%;}
+
+
+
+
+a:link { color:navy; }
+a:visited { color: red; }
+a:hover { color: pink;}
